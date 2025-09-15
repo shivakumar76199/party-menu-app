@@ -2,6 +2,7 @@
   "name": "party-menu-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://<your-github-shivakumar76199>.github.io/<repo-name>",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
